@@ -1,0 +1,8 @@
+JavaScript mendukung escape sequance di string. escape sequence merupakan 
+karakter khusus, seperti ENTER, TAB, "(kutip dua), dll 
+contoh escape
+\n      (ENTER)
+\t      (TAB)
+\'      (')
+\"      (")
+\\      (\)
